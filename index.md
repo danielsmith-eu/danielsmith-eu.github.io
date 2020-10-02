@@ -7,3 +7,5 @@
   * Bootstrap CSS theme that looks like ncurses etc
 * [Mermaid.js](https://mermaid-js.github.io/mermaid/#/)
   * JS framework for declarative drawing of diagrams, e.g. UML / DFD
+* [Google Cloud Tasks](https://cloud.google.com/tasks)
+  * Cloud Tasks is a fully managed service that allows you to manage the execution, dispatch, and delivery of a large number of distributed tasks. Using Cloud Tasks, you can perform work asynchronously outside of a user or service-to-service request.
